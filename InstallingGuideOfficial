@@ -1,0 +1,22 @@
+Installing Guide for Mandarin Learning Tool for exclusive API and packages
+
+$ pip install googletrans
+
+$ pip install Pillow
+
+$ pip install pinyin
+
+$ pip install gTTS
+
+$ pip install playsound
+
+$ pip install PyDictionary
+
+Get Mandarin Keyboard:
+
+System Preferences -> Keyboard -> Input Sources -> +(add) -> Chinese, Simplified -> Pinyin -> add
+
+Access Keyboard:
+
+Next to battery sign at the top right of mac screen -> click the canadian flag -> switch to pinyin
+
